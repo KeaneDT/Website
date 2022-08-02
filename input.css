@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.circle {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
